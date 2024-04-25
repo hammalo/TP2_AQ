@@ -1,0 +1,1 @@
+la condition if (n <= 1) dans la méthode fizzBuzz vérifie si n est inférieur ou égal à 1, alors qu'elle devrait vérifier si n est positif. La condition devrait être if (n <= 0) pour vérifier si n est inférieur ou égal à zéro. Sinon, cette condition provoquera une exception même pour des nombres positifs autres que 1.

@@ -1,0 +1,1 @@
+Les indices i et j sont incorrectement manipulés, ce qui entraîne une boucle infinie.
